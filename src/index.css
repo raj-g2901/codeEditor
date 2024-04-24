@@ -3,7 +3,7 @@ body {
 }
 
 .top-pane {
-  background-color: hsl(225, 6%, 25%);
+  background-color: hsl(225, 99%, 35%);
 }
 
 .pane {
@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: .5rem;
-  background-color: hsl(225, 6%, 25%);
+  background-color: hsl(225, 82%, 52%);
 }
 
 .editor-container.collapsed {
@@ -40,7 +40,7 @@ body {
 .editor-title {
   display: flex;
   justify-content: space-between;
-  background-color: hsl(225, 6%, 13%);
+  background-color: hsl(225, 66%, 25%);
   color: white;
   padding: .5rem .5rem .5rem 1rem;
   border-top-right-radius: .5rem;
